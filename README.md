@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-8bit.gif" width="900"/>
+  <img src="./assets/COOL PIXEL GIF_.gif" width="900"/>
 </p>
 
 # 💫 Hi, I'm Nethmi Wijekoon 🌸
